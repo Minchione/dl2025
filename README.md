@@ -1,5 +1,5 @@
 USTH Deep Learning 2025
 ==========================
 
-* Your name here
+* Nguyen Hoang Minh
 * YOUR ID HERE IF YOU ARE DAT
